@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Obsidian workspace file (local only, contains window layout state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache (local only)
+.obsidian/cache
+
+# Obsidian graph cache
+.obsidian/graph.json

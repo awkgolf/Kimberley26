@@ -1,0 +1,15 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "promptDelete": true,
+  "trashOption": "local",
+  "showLineNumber": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "Resources",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Journal"
+}
