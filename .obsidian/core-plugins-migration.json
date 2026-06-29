@@ -1,0 +1,8 @@
+{
+  "template-folder": "Templates",
+  "daily-notes": {
+    "folder": "Journal",
+    "format": "YYYY-MM-DD",
+    "template": "Templates/Daily Journal"
+  }
+}
