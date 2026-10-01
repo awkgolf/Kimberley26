@@ -51,7 +51,7 @@ region: Mid West
 
 ## Linked Notes
 
-- [[../Geology/index|Geology Index]]
+- [[../03-Observations/index|Observations Index]]
 
 ---
 
