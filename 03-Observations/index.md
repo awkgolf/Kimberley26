@@ -1,6 +1,6 @@
 # Geology Index
 
-Geological observations, outcrop notes and sample records from the Kimberley26 expedition.
+Individual geological observations, outcrop notes and interpretations.
 
 ---
 
@@ -12,9 +12,10 @@ Geological observations, outcrop notes and sample records from the Kimberley26 e
 
 ---
 
-## Rock Samples Log
+## Record convention
 
-See [[Samples]] for the full sample catalogue.
+Create one note per outcrop or feature using `OBS-NNN`, and link it to a location,
+journal entry, photographs and any samples collected.
 
 ---
 

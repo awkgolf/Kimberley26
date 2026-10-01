@@ -9,7 +9,7 @@
   "foldIndent": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "Resources",
+  "attachmentFolderPath": "Attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Journal"
+  "newFileFolderPath": "01-Journal"
 }

@@ -1,6 +1,6 @@
 # Rock Samples — Catalogue
 
-Complete log of all rock and sediment samples collected during the Kimberley26 expedition.
+Catalogue of all rock and sediment samples collected during the expedition.
 
 ---
 
@@ -16,7 +16,7 @@ Complete log of all rock and sediment samples collected during the Kimberley26 e
 
 Samples are numbered sequentially: `K26-001`, `K26-002`, etc.
 
-Each sample should have a corresponding detail note using the [[../Templates/Rock Sample|Rock Sample]] template, saved as `Geology/K26-NNN.md`.
+Each sample should have a corresponding detail note using the [[../Templates/Rock Sample|Rock Sample]] template, saved as `04-Samples/K26-NNN.md`.
 
 ---
 

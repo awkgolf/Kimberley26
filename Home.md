@@ -8,11 +8,12 @@
 
 | Section | Description |
 |---------|-------------|
-| 📅 [[Journal/index\|Journal]] | Day-by-day travel and field notes |
-| 🪨 [[Geology/index\|Geology]] | Geological observations and analysis |
-| 📍 [[Locations/index\|Locations]] | Location profiles along the route |
-| 📦 [[Geology/Samples\|Rock Samples]] | Collected sample log |
-| 📚 [[Resources/index\|Resources]] | Reference material and maps |
+| 📅 [[01-Journal/index\|Journal]] | Day-by-day travel and field notes |
+| 🪨 [[03-Observations/index\|Observations]] | Individual geological records |
+| 📍 [[02-Locations/index\|Locations]] | Stable site profiles along the route |
+| 📦 [[04-Samples/index\|Rock Samples]] | Collected sample catalogue |
+| 📚 [[06-References/Web Resources\|References]] | Maps, bibliography and web resources |
+| ⚙️ [[00-Admin/Trip Plan\|Trip Plan]] | Route, standards and safety |
 
 ---
 
@@ -36,20 +37,21 @@ The coast north of Perth traverses several distinct geological provinces:
 
 ### Key Locations Planned
 
-- [[Locations/Lancelin|Lancelin]]
-- [[Locations/Cervantes|Cervantes]] — Pinnacles Desert / Nambung NP
-- [[Locations/Jurien Bay|Jurien Bay]]
-- [[Locations/Green Head|Green Head]]
-- [[Locations/Kalbarri|Kalbarri]] — Murchison River Gorge
+- [[02-Locations/Lancelin|Lancelin]]
+- [[02-Locations/Cervantes|Cervantes]] — Pinnacles Desert / Nambung NP
+- [[02-Locations/Jurien Bay|Jurien Bay]]
+- [[02-Locations/Green Head|Green Head]]
+- [[02-Locations/Kalbarri|Kalbarri]] — Murchison River Gorge
 
 ---
 
 ## How to Use This Vault
 
 1. **Daily notes** — Use `Ctrl+Shift+D` (or the calendar icon) to create today's journal entry from the [[Templates/Daily Journal|Daily Journal]] template.
-2. **New geological observation** — Create a note in `Geology/` using the [[Templates/Geological Observation|Geological Observation]] template.
-3. **New location** — Create a note in `Locations/` using the [[Templates/Location|Location]] template.
-4. **Rock samples** — Log each collected sample in `Geology/Samples.md` and link to a [[Templates/Rock Sample|Rock Sample]] detail note.
+2. **New geological observation** — Create an `OBS-NNN` note in `03-Observations/`.
+3. **New location** — Create or update a note in `02-Locations/`.
+4. **Rock samples** — Create a `K26-NNN` note in `04-Samples/` and add it to the catalogue.
+5. **Photos** — Store files in `Attachments/` and record context in `05-Photos/`.
 
 ---
 

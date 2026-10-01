@@ -18,11 +18,15 @@ This vault documents a coastal geological survey travelling north from Perth alo
 ```
 Kimberley26/
 ├── Home.md                  # Start here — expedition overview and navigation
-├── Journal/                 # Day-by-day field notes
-├── Geology/                 # Geological observations and sample log
-├── Locations/               # Site profiles (Lancelin, Cervantes, Jurien Bay, Kalbarri…)
+├── 00-Admin/                # Route, standards, safety and permissions
+├── 01-Journal/              # Day-by-day field notes
+├── 02-Locations/            # Stable site profiles
+├── 03-Observations/         # Individual outcrop and feature records
+├── 04-Samples/              # Individual specimen records and catalogue
+├── 05-Photos/               # Photo context and index
+├── 06-References/           # Maps, bibliography and web resources
 ├── Templates/               # Note templates (journal, observation, location, sample)
-└── Resources/               # Reference material, maps and equipment checklist
+└── Attachments/             # Images and other embedded files
 ```
 
 ## Getting Started
@@ -34,4 +38,4 @@ Kimberley26/
 
 ## Route
 
-Perth → Lancelin → Cervantes (Pinnacles) → Jurien Bay → Green Head → Kalbarri (~590 km)
+Perth → Lancelin → Cervantes → Jurien Bay → Green Head → Kalbarri (~590 km)
